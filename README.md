@@ -1,3 +1,12 @@
+This is a modified version of the famous TVTunes-Addon originally written by Robwebset. 
+
+In contrast to the official version this version is still able to download themes from different websites. 
+The scraper for the TV Themes library as well as for the goear.com library have been removed, because both websites do not exist any longer. Having said that there remain three scraper: Plex, Televisiontunes and Soundcloud. 
+
+Furthermore this version has been adopted to work with Kodi version 18, Codename Leia. 
+
+Thanks to Robwebset for this great addon! 
+
 ![TvTunes](icon.png)
 
 TvTunes has grown over time and is now more than a simple theme player for TV Shows, some of the features include:
